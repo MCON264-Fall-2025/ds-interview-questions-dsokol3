@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52964bc1-a2f6-4800-9b1f-0701a90ebe71" name="Changes" comment="Merge branch 'main' of https://github.com/MCON264-Fall-2025/ds-interview-questions-dsokol3&#10;&#10;# Conflicts:&#10;#&#9;.idea/compiler.xml&#10;#&#9;.idea/misc.xml">
+    <list default="true" id="52964bc1-a2f6-4800-9b1f-0701a90ebe71" name="Changes" comment="change package">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +65,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="17" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -151,6 +151,19 @@
       <option name="presentableId" value="Default" />
       <updated>1761061171094</updated>
     </task>
+    <task id="LOCAL-00001" summary="change package">
+      <option name="closed" value="true" />
+      <created>1761533570592</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1761533570592</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="change package" />
+    <option name="LAST_COMMIT_MESSAGE" value="change package" />
   </component>
 </project>
