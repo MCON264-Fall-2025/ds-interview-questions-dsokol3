@@ -57,10 +57,10 @@ Normally, finding the minimum element in a stack requires traversing through the
 
 | Operation | Time Complexity | Space Complexity |
 |-----------|-----------------|------------------|
-| `push()` | O(1) | O(1) |
-| `pop()` | O(1) | O(1) |
-| `peek()` | O(1) | O(1) |
-| `getMin()` | O(1) | O(1) |
+| `push()`  |       O(1)      |       O(1)       |
+| `pop()`   |       O(1)      |       O(1)       |
+| `peek()`  |       O(1)      |       O(1)       |
+| `getMin()`|       O(1)      |       O(1)       |
 
 **Overall Space Complexity:** O(n) — where n is the number of elements in the stack (due to the auxiliary min stack)
 
